@@ -9,3 +9,4 @@ echo 'emoji(){ firefox /path/emoji.html}' >> ~/.bashrc
 ```
 Then, when you need to use emoji, just type emoji on your terminal.<br />
 Also you can bookmark [this page](https://arashph17.github.io/html_emoji/).
+
